@@ -1,1 +1,1 @@
-# 1th-semesterproject
+# 1st-semesterproject
